@@ -32,8 +32,8 @@ Created user7067998864034308207@test.com and Password:123
 
 <br/>
 
-<li>At first, If you want to see sign-in page how it works ( [localhost:8080/users/login](http://localhost:8080/users/login) ) ,you can use Postman to sign-in with this code snippet
-</li>
+At first, If you want to see sign-in page how it works ( [localhost:8080/users/login](http://localhost:8080/users/login) ) ,you can use Postman to sign-in with this code snippet
+
 <br/>
 <b>(DO NOT FORGET!)</b> You must use POST HTTP method to sign-in in Postman.
 <br/>
